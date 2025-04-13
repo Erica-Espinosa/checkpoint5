@@ -1,5 +1,5 @@
 
-# EJERCICIO DE DOCUMENTACION DE PYTHON CON LENGUAJE MARKDOWN
+# EJERCICIO DE DOCUMENTACIÓN DE PYTHON CON LENGUAJE MARKDOWN
 # 1. Condicionales y estructuras de control en Python
 
 
@@ -306,7 +306,7 @@ Para el ejemplo anterior, cuando estamos llamando a la _función definida_, le e
 
 En las buenas prácticas, cuando son más de dos argumentos se recomienda llamarlos con _nombre_, esto evita que se cometan errores en el envió de los valores.
 
-# 4. Funciones Lambda en Python
+# 5. Funciones Lambda en Python
 
 Es una herramienta que permite _encapsular una función_. Normalmente una función mas pequeña y luego pasarla fácilmente a otras funciones, se puede considerar que un **lambda** es casi similar a una variable, que se puede pasar en lugar de valores básicos como una cadena, un diccionario o algo similar.
 
@@ -338,7 +338,7 @@ suma(2,4)
 ```
 Una buena practica para estas _funciones lambda_, es que se usen para crear funciones simples, rápidas y temporales. Deben ser concisas y fáciles de entender, si la lógica se vuelve compleja es mejor definir una _función tradicional_.
 
-# 4. Paquete PIP en Python
+# 6. Paquete PIP en Python
 
 El **pip** es un "_sistema de gestión de paquetes para Python_", su nombre significa “**Pip Installs Packages**” lo que en español quiere decir: “**Pip Instala Paquetes**”
 
@@ -354,7 +354,7 @@ pip install requests
 Si necesitas una guía detallada para instalar pip, puedes remitirte al siguiente enlace: [enlace en línea](https://pip.pypa.io/en/stable/installation/)
 
 
-# 4. Enlaces sugeridos
+# 7. Enlaces sugeridos
 
 ### Información sobre lenguaje MarkDown
 https://markdown.es/sintaxis-markdown/
